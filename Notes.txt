@@ -1,0 +1,5 @@
+https://docs.python.org/3.6/contents.html
+https://docs.python.org/3.6/index.html
+https://www.pluralsight.com/
+
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
